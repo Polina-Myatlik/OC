@@ -1,0 +1,20 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\bin\Debug\Диск.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\bin\Debug\Диск.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\bin\Debug\Диск.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\obj\Debug\Диск.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\obj\Debug\Диск.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\obj\Debug\Диск.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\obj\Debug\Диск.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\obj\Debug\Диск.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\obj\Debug\Диск.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Диск\Диск\obj\Debug\Диск.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\bin\Debug\Диск.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\bin\Debug\Диск.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\bin\Debug\Диск.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\obj\Debug\Диск.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\obj\Debug\Диск.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\obj\Debug\Диск.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\obj\Debug\Диск.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\obj\Debug\Диск.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\obj\Debug\Диск.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\Диск\Диск\obj\Debug\Диск.pdb

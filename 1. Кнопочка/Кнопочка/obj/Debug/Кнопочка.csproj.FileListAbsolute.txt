@@ -1,0 +1,11 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\bin\Debug\Кнопочка.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\bin\Debug\Кнопочка.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\bin\Debug\Кнопочка.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.Properties.Resources.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Кнопочка\Кнопочка\obj\Debug\Кнопочка.pdb

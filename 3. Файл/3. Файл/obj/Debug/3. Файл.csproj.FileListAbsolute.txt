@@ -1,0 +1,10 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\obj\Debug\3. Файл.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\obj\Debug\3. Файл.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\obj\Debug\_3.Файл.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\obj\Debug\3. Файл.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\obj\Debug\3. Файл.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\bin\Debug\_3.Файл.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\bin\Debug\_3.Файл.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\bin\Debug\_3.Файл.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\obj\Debug\_3.Файл.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\3. Файл\3. Файл\obj\Debug\_3.Файл.pdb
