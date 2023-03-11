@@ -1,0 +1,11 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\bin\Debug\_4.Потоки.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\bin\Debug\_4.Потоки.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\bin\Debug\_4.Потоки.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\4. Потоки.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\4. Потоки.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\_4.Потоки.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\_4.Потоки.Form2.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\4. Потоки.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\4. Потоки.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\_4.Потоки.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\4. Потоки\4. Потоки\obj\Debug\_4.Потоки.pdb

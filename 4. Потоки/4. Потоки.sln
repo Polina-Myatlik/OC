@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Потоки", "4. Потоки\4. Потоки.csproj", "{7AE20687-83DC-4ABB-BC9E-29F4C59352BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE20687-83DC-4ABB-BC9E-29F4C59352BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE20687-83DC-4ABB-BC9E-29F4C59352BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE20687-83DC-4ABB-BC9E-29F4C59352BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE20687-83DC-4ABB-BC9E-29F4C59352BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D05949-F058-45F4-89AD-597A5327E13F}
+	EndGlobalSection
+EndGlobal
