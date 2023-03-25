@@ -1,0 +1,8 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\obj\Debug\КР 1.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\obj\Debug\КР 1.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\bin\Debug\КР 1.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\bin\Debug\КР 1.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\obj\Debug\КР 1.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\obj\Debug\КР 1.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\obj\Debug\КР_1.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\КР 1\КР 1\obj\Debug\КР 1.csproj.GenerateResource.cache
