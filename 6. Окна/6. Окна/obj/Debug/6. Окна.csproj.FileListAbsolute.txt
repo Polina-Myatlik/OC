@@ -1,0 +1,8 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\bin\Debug\_6.Окна.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\bin\Debug\_6.Окна.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\bin\Debug\_6.Окна.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\obj\Debug\6. Окна.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\obj\Debug\6. Окна.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\obj\Debug\6. Окна.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\obj\Debug\_6.Окна.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\6. Окна\6. Окна\obj\Debug\_6.Окна.pdb
