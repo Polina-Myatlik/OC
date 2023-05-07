@@ -1,0 +1,8 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\bin\Debug\_9.Чат.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\bin\Debug\_9.Чат.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\bin\Debug\_9.Чат.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\obj\Debug\9. Чат.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\obj\Debug\9. Чат.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\obj\Debug\9. Чат.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\obj\Debug\_9.Чат.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9. Чат\obj\Debug\_9.Чат.pdb

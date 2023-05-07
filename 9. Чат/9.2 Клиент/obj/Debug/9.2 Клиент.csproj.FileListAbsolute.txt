@@ -1,0 +1,8 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\bin\Debug\9.2 Клиент.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\bin\Debug\9.2 Клиент.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\bin\Debug\9.2 Клиент.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\obj\Debug\9.2 Клиент.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\obj\Debug\9.2 Клиент.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\obj\Debug\9.2 Клиент.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\obj\Debug\9.2 Клиент.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\ОС\9. Чат\9.2 Клиент\obj\Debug\9.2 Клиент.pdb
